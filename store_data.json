@@ -1,0 +1,164 @@
+{
+    "Sliced Bacon": {
+        "description": "Purefoods Honeycured Bacon Sliced 200g",
+        "price": "\u20b1178.00",
+        "quantity": 9,
+        "category": "frozen",
+        "image_path": "C:\\Users\\arves\\Documents\\CODES\\Final_proj_ShopNGo\\img_item\\Sliced Bacon.png"
+    },
+    "Hotdog": {
+        "description": "Purefoods Tender Juicy Hotdog Regular 1kg",
+        "price": "\u20b1226.70",
+        "quantity": 4,
+        "category": "frozen",
+        "image_path": "C:\\Users\\arves\\Documents\\CODES\\Final_proj_ShopNGo\\img_item\\Hotdog.png"
+    },
+    "Corned Beef": {
+        "description": "Purefoods Corned Beef 210g",
+        "price": "\u20b183.00",
+        "quantity": 11,
+        "category": "canned food",
+        "image_path": "C:\\Users\\arves\\Documents\\CODES\\Final_proj_ShopNGo\\img_item\\Corned Beef.png"
+    },
+    "Tocino": {
+        "description": "Purefoods Tocino 220g Classic",
+        "price": "\u20b1180.55",
+        "quantity": 12,
+        "category": "frozen",
+        "image_path": "C:\\Users\\arves\\Documents\\CODES\\Final_proj_ShopNGo\\img_item\\Tocino.png"
+    },
+    "Smart C Orange": {
+        "description": "Smart C Orange 500mL",
+        "price": "\u20b131.50",
+        "quantity": 17,
+        "category": "beverage",
+        "image_path": "C:\\Users\\arves\\Documents\\CODES\\Final_proj_ShopNGo\\img_item\\Smart C Orange.png"
+    },
+    "Smart C  Calamansi": {
+        "description": "Smart C+ Juice Drink Calamansi Splash 500ml",
+        "price": "\u20b131.50",
+        "quantity": 19,
+        "category": "beverage",
+        "image_path": "C:\\Users\\arves\\Documents\\CODES\\Final_proj_ShopNGo\\img_item\\Smart C  Calamansi.png"
+    },
+    "Smart C Lemon": {
+        "description": "Smart C+ Lemon Sqeeze Juice (500mL)",
+        "price": "\u20b131.50",
+        "quantity": 20,
+        "category": "beverage",
+        "image_path": "C:\\Users\\arves\\Documents\\CODES\\Final_proj_ShopNGo\\img_item\\Smart C Lemon.png"
+    },
+    "Kopiko": {
+        "description": "Kopiko RTD Coffee Lucky Day 180ml",
+        "price": "\u20b123.25",
+        "quantity": 16,
+        "category": "beverage",
+        "image_path": "C:\\Users\\arves\\Documents\\CODES\\Final_proj_ShopNGo\\img_item\\Kopiko.png"
+    },
+    "White Bread": {
+        "description": "Gardenia Classic White Bread (600g)",
+        "price": "\u20b189.00",
+        "quantity": 18,
+        "category": "bread",
+        "image_path": "C:\\Users\\arves\\Documents\\CODES\\Final_proj_ShopNGo\\img_item\\White Bread.png"
+    },
+    "Wheat Bread": {
+        "description": "Gardenia Wheat Bread 400g",
+        "price": "\u20b170.50",
+        "quantity": 15,
+        "category": "bread",
+        "image_path": "C:\\Users\\arves\\Documents\\CODES\\Final_proj_ShopNGo\\img_item\\Wheat Bread.png"
+    },
+    "Honey Butter Chips": {
+        "description": "Jack 'n Jill Calbee Honey Butter 60g",
+        "price": "\u20b141.50",
+        "quantity": 16,
+        "category": "chips",
+        "image_path": "C:\\Users\\arves\\Documents\\CODES\\Final_proj_ShopNGo\\img_item\\Honey Butter Chips.png"
+    },
+    "Cheezy red": {
+        "description": "Cheezy Spicy and Cheesy 70g",
+        "price": "\u20b134.00",
+        "quantity": 18,
+        "category": "chips",
+        "image_path": "C:\\Users\\arves\\Documents\\CODES\\Final_proj_ShopNGo\\img_item\\Cheezy red.png"
+    },
+    "Sterilized Milk": {
+        "description": "BEAR BRAND Sterilized UHT Milk 1L ",
+        "price": "\u20b1200.00",
+        "quantity": 18,
+        "category": "dairy",
+        "image_path": "C:\\Users\\arves\\Documents\\CODES\\Final_proj_ShopNGo\\img_item\\Sterilized Milk.png"
+    },
+    "Butter": {
+        "description": "Magnolia Buttercup Salted 200g",
+        "price": "\u20b155.05",
+        "quantity": 17,
+        "category": "dairy",
+        "image_path": "C:\\Users\\arves\\Documents\\CODES\\Final_proj_ShopNGo\\img_item\\Butter.png"
+    },
+    "All purpose cream": {
+        "description": "NESTLE All-Purpose Cream 250ml",
+        "price": "\u20b179.00",
+        "quantity": 18,
+        "category": "dairy",
+        "image_path": "C:\\Users\\arves\\Documents\\CODES\\Final_proj_ShopNGo\\img_item\\All purpose cream.png"
+    },
+    "Soy Sauce": {
+        "description": "Datu Puti Soy Sauce PET 1L",
+        "price": "\u20b148.50",
+        "quantity": 16,
+        "category": "condiments",
+        "image_path": "C:\\Users\\arves\\Documents\\CODES\\Final_proj_ShopNGo\\img_item\\Soy Sauce.png"
+    },
+    "Vinegar": {
+        "description": "Datu Puti Vinegar 1L",
+        "price": "\u20b149.75",
+        "quantity": 17,
+        "category": "condiments",
+        "image_path": "C:\\Users\\arves\\Documents\\CODES\\Final_proj_ShopNGo\\img_item\\Vinegar.png"
+    },
+    "Patis": {
+        "description": "Datu Puti Patis 1L",
+        "price": "\u20b189.00",
+        "quantity": 17,
+        "category": "condiments",
+        "image_path": "C:\\Users\\arves\\Documents\\CODES\\Final_proj_ShopNGo\\img_item\\Patis.png"
+    },
+    "Ketchup": {
+        "description": "Del Monte Sweet Blend Ketchup 12oz",
+        "price": "\u20b146.50",
+        "quantity": 18,
+        "category": "condiments",
+        "image_path": "C:\\Users\\arves\\Documents\\CODES\\Final_proj_ShopNGo\\img_item\\Ketchup.png"
+    },
+    "cart": {},
+    "Chicken Nuggets": {
+        "description": "CDO Chicken Nuggets 200g",
+        "price": "\u20b1111.70",
+        "quantity": 15,
+        "category": "frozen",
+        "image_path": "C:\\Users\\arves\\Documents\\CODES\\Final_proj_ShopNGo\\img_item\\Chicken Nuggets.png"
+    },
+    "Torikatsu Chicken": {
+        "description": "CDO Premium Torikatsu 420g",
+        "price": "\u20b1205.00",
+        "quantity": 12,
+        "category": "frozen",
+        "image_path": "C:\\Users\\arves\\Documents\\CODES\\Final_proj_ShopNGo\\img_item\\Torikatsu Chicken.png"
+    },
+    "Sardines": {
+        "description": "Ligo Easy Open Can Sardines In Tomato Sauce With Chili 155g",
+        "price": "\u20b125.20",
+        "quantity": 16,
+        "category": "canned food",
+        "image_path": "C:\\Users\\arves\\Documents\\CODES\\Final_proj_ShopNGo\\img_item\\Sardines.png"
+    },
+    "Tuna": {
+        "description": "Century Tuna Hot & Spicy 420g",
+        "price": "\u20b176.00",
+        "quantity": 12,
+        "category": "canned food",
+        "image_path": "C:\\Users\\arves\\Documents\\CODES\\Final_proj_ShopNGo\\img_item\\Tuna.png"
+    }
+}
